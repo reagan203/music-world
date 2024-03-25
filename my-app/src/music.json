@@ -1,283 +1,163 @@
 [
-    {
+  {
       "id": 1,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
+      "title": "balalu",
+      "artist": "wakadinali",
+      "genre": "gospel",
+      "src": "balalu.mp3"
+  },
+  {
       "id": 2,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
+      "title": "nyaranyara",
+      "artist": "wakadinali",
+      "genre": "kenyan",
+      "src": "nyaranyara.mp3"
+  },
+  {
       "id": 3,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
+      "title": "case closed",
+      "artist": "wakadinali",
+      "genre": "kenyan",
+      "src": "case-closed.mp3"
+  },
+  {
       "id": 4,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
+      "title": "kisses",
+      "artist": "wakadinali",
+      "genre": "gospel",
+      "src": "kisses.mp3"
+  },
+  {
       "id": 5,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
+      "title": "sikutambui",
+      "artist": "wakadinali",
+      "genre": "kenyan",
+      "src": "sikutambui.mp3"
+  },
+  {
       "id": 6,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
+      "title": "hizi stance",
+      "artist": "wakadinali",
+      "genre": "kenyan",
+      "src": "stance.mp3"
+  },
+  {
       "id": 7,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
+      "title": "umoroto",
+      "artist": "wakadinali",
+      "genre": "kenyan",
+      "src": "umoroto.mp3"
+  },
+  {
       "id": 8,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
+      "title": "6 for 6",
+      "artist": "central cee",
+      "genre": "drill",
+      "src": "Central Cee 6 For 6.mp3"
+  },
+  {
       "id": 9,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
+      "title": "commitment issues",
+      "artist": "central cee",
+      "genre": "drill",
+      "src": "Central Cee Commitment Issues.mp3"
+  },
+  {
       "id": 10,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
+      "title": "central cee & doja",
+      "artist": "central cee",
+      "genre": "drill",
+      "src": "Central Cee Doja.mp3"
+  },
+  {
       "id": 11,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
+      "title": "central cee scared",
+      "artist": "central cee",
+      "genre": "drill",
+      "src": "Central Cee Scared.mp3"
+  },
+  {
       "id": 12,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
+      "title": "spinter",
+      "artist": "central cee x Dave",
+      "genre": "drill",
+      "src": "Central Cee x Dave Sprinter.mp3"
+  },
+  {
       "id": 13,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 14,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 15,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 16,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 17,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 18,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 19,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 20,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 21,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 22,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 23,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 24,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 25,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 26,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 27,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 28,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 29,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 30,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 31,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 32,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 33,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 34,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 35,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 36,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 37,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 38,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 39,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    },
-    {
-      "id": 40,
-      "title": "",
-      "artist": "",
-      "genre": "",
-      "src": ""
-    }
-  ]
-  
+      "title": "obessed",
+      "artist": "central cee",
+      "genre": "drill",
+      "src": "Central_Cee_obsessed.mp3"
+  },
+  {
+    "id": 14,
+    "title":"nonstop",
+    "artist":"drake",
+    "genre":"hiphop",
+    "src":"Drake Nonstop.mp3"
+  },
+  {
+    "id":15,
+    "title":"tossie slide",
+    "artist":"drake",
+    "genre":"hiphop",
+    "src":"Drake Tossie Slide.mp3"
+  },
+  {
+    "id": 16,
+    "title": "rasta",
+    "artist": "jah cure",
+    "genre": "reggae",
+    "src": "rasta.mp3"
+  },
+  {
+    "id": 17,
+    "title": "dread",
+    "artist": "chronnix",
+    "genre": "reggae",
+    "src": "dread.mp3"
+  },
+  {
+    "id": 18,
+    "title": "stir it",
+    "artist": "chronnix",
+    "genre": "reggae",
+    "src": "stir it.mp3"
+  },
+  {
+    "id": 19,
+    "title": "run",
+    "artist": "katel",
+    "genre": "dancehall",
+    "src": "Vybz Katel Run Dancehal.mp3"
+  },
+  {
+    "id": 20,
+    "title": "colouring",
+    "artist": "katel",
+    "genre": "dancehall",
+    "src": "Vybz Katel Colouring.mp3"
+  },
+  {
+    "id": 21,
+    "title": "dont come back",
+    "artist": "katel",
+    "genre": "dancehall",
+    "src": "dont come back.mp3"
+  },
+  {
+    "id": 22,
+    "title": "hit and run",
+    "artist": "shensia",
+    "genre": "gospel",
+    "src": "Shenseea Hit Run 2.mp3"
+  },
+  {
+    "id": 23,
+    "title": "bruk off",
+    "artist": "konsheans",
+    "genre": "gospel",
+    "src": "Konshens Bruk Off.mp3"
+  }
+]
